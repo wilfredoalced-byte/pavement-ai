@@ -1,0 +1,62 @@
+id,tramo,via,fecha,antiguedad,transito,falla,severidad,pci,foto,observaciones
+1,T-03,Jr. Abtao,2025-01-19,1.4,Medio,Ninguna,—,99.0,,Registro simulado
+2,T-05,Jr. Huánuco,2025-01-22,3.1,Alto,Grietas transversales,Baja,86.0,,Registro simulado
+3,T-11,Av. Esteban Pavletich,2025-01-24,6.4,Alto,Escalonamiento,Baja,52.0,,Registro simulado
+4,T-09,Av. Universitaria,2025-01-25,5.7,Alto,Grietas de esquina,Media,60.0,,Registro simulado
+5,T-10,Jr. San Martín,2025-01-26,7.7,Medio,Grietas transversales,Media,48.0,,Registro simulado
+6,T-07,Jr. Huallayco,2025-01-26,4.2,Medio,Grietas transversales,Baja,75.0,,Registro simulado
+7,T-06,Jr. Ayacucho,2025-01-26,2.3,Medio,Ninguna,—,94.0,,Registro simulado
+8,T-07,Jr. Huallayco,2025-01-26,4.2,Medio,Grietas transversales,Baja,75.0,,Registro simulado
+9,T-04,Av. Alameda de la República,2025-01-28,7.0,Alto,Escalonamiento,Media,52.0,,Registro simulado
+10,T-12,Jr. Constitución,2025-01-30,8.1,Bajo,Grietas de esquina,Baja,49.0,,Registro simulado
+11,T-08,Jr. Leoncio Prado,2025-01-30,5.3,Bajo,Escalonamiento,Media,68.0,,Registro simulado
+12,T-09,Av. Universitaria,2025-06-18,6.1,Alto,Grietas de esquina,Baja,57.0,,Registro simulado
+13,T-03,Jr. Abtao,2025-06-19,1.9,Medio,Ninguna,—,96.0,,Registro simulado
+14,T-02,Jr. General Prado,2025-06-19,1.1,Bajo,Ninguna,—,100.0,,Registro simulado
+15,T-06,Jr. Ayacucho,2025-06-20,2.7,Medio,Ninguna,—,91.0,,Registro simulado
+16,T-04,Av. Alameda de la República,2025-06-20,7.4,Alto,Despostillamiento,Media,47.0,,Registro simulado
+17,T-05,Jr. Huánuco,2025-06-20,3.5,Alto,Grietas longitudinales,Baja,81.0,,Registro simulado
+18,T-07,Jr. Huallayco,2025-06-22,4.6,Medio,Grietas transversales,Baja,72.0,,Registro simulado
+19,T-11,Av. Esteban Pavletich,2025-06-23,6.8,Alto,Escalonamiento,Media,55.0,,Registro simulado
+20,T-08,Jr. Leoncio Prado,2025-06-23,5.7,Bajo,Grietas de esquina,Baja,66.0,,Registro simulado
+21,T-10,Jr. San Martín,2025-06-26,8.1,Medio,Grietas transversales,Baja,48.0,,Registro simulado
+22,T-12,Jr. Constitución,2025-06-28,8.5,Bajo,Escalonamiento,Media,45.0,,Registro simulado
+23,T-12,Jr. Constitución,2025-06-28,8.5,Bajo,Escalonamiento,Media,45.0,,Registro simulado
+24,T-01,Jr. Dos de Mayo,2025-11-04,1.0,Bajo,Ninguna,—,100.0,,Registro simulado
+25,T-07,Jr. Huallayco,2025-11-10,5.0,Medio,Grietas transversales,Media,70.0,,Registro simulado
+26,T-06,Jr. Ayacucho,2025-11-11,3.1,Medio,Grietas transversales,Baja,83.0,,Registro simulado
+27,T-03,Jr. Abtao,2025-11-14,2.3,Medio,Ninguna,—,91.0,,Registro simulado
+28,T-02,Jr. General Prado,2025-11-16,1.5,Bajo,Ninguna,—,100.0,,Registro simulado
+29,T-08,Jr. Leoncio Prado,2025-11-17,6.1,Bajo,Grietas transversales,Baja,65.0,,Registro simulado
+30,T-09,Av. Universitaria,2025-11-19,6.5,Alto,Escalonamiento,Media,52.0,,Registro simulado
+31,T-05,Jr. Huánuco,2025-11-19,3.9,Alto,Grietas longitudinales,Baja,74.0,,Registro simulado
+32,T-04,Av. Alameda de la República,2025-11-19,7.8,Alto,Despostillamiento,Media,42.0,,Registro simulado
+33,T-11,Av. Esteban Pavletich,2025-11-22,7.2,Alto,Escalonamiento,Baja,53.0,,Registro simulado
+34,T-12,Jr. Constitución,2025-11-25,8.9,Bajo,Despostillamiento,Media,44.0,,Registro simulado
+35,T-10,Jr. San Martín,2025-11-25,8.5,Medio,Losa dividida,Media,36.0,,Registro simulado
+36,T-02,Jr. General Prado,2025-11-30,1.1,Bajo,Ninguna,—,,,Registro simulado
+37,T-02,Jr. General Prado,2026-04-16,1.9,Bajo,Ninguna,—,100.0,,Registro simulado
+38,T-01,Jr. Dos de Mayo,2026-04-22,1.5,Bajo,Ninguna,—,100.0,,Registro simulado
+39,T-04,Av. Alameda de la República,2026-04-24,8.2,Alto,Despostillamiento,Alta,37.0,,Registro simulado
+40,T-06,Jr. Ayacucho,2026-04-24,3.5,Medio,Ninguna,—,93.0,,Registro simulado
+41,T-12,Jr. Constitución,2026-04-26,9.3,Bajo,Escalonamiento,Media,40.0,,Registro simulado
+42,T-03,Jr. Abtao,2026-04-26,2.7,Medio,Ninguna,—,91.0,,Registro simulado
+43,T-05,Jr. Huánuco,2026-04-27,4.3,Alto,Grietas longitudinales,Baja,75.0,,Registro simulado
+44,T-09,Av. Universitaria,2026-04-28,6.9,Alto,Escalonamiento,Media,51.0,,Registro simulado
+45,T-08,Jr. Leoncio Prado,2026-04-29,6.5,Bajo,Grietas de esquina,Baja,59.0,,Registro simulado
+46,T-07,Jr. Huallayco,2026-04-29,5.4,Medio,Despostillamiento,Media,65.0,,Registro simulado
+47,T-11,Av. Esteban Pavletich,2026-04-30,7.2,Alto,Escalonamiento,Baja,135.0,,Registro simulado
+48,T-10,Jr. San Martín,2026-05-03,8.9,Medio,Grietas de esquina,Alta,39.0,,Registro simulado
+49,T-11,Av. Esteban Pavletich,2026-05-04,7.6,Alto,Grietas de esquina,Media,47.0,,Registro simulado
+50,T-03,Jr. Abtao,2026-11-03,3.2,Medio,Grietas longitudinales,Baja,81.0,,Registro simulado
+51,T-02,Jr. General Prado,2026-11-03,2.4,Bajo,Ninguna,—,96.0,,Registro simulado
+52,T-05,Jr. Huánuco,2026-11-06,4.8,Alto,Despostillamiento,Media,66.0,,Registro simulado
+53,T-01,Jr. Dos de Mayo,2026-11-07,2.0,Bajo,Ninguna,—,97.0,,Registro simulado
+54,T-08,Jr. Leoncio Prado,2026-11-09,7.1,Bajo,Grietas de esquina,Baja,60.0,,Registro simulado
+55,T-10,Jr. San Martín,2026-11-09,9.5,Medio,Escalonamiento,Alta,35.0,,Registro simulado
+56,T-11,Av. Esteban Pavletich,2026-11-09,8.2,Alto,Grietas transversales,Media,44.0,,Registro simulado
+57,T-06,Jr. Ayacucho,2026-11-12,4.1,Medio,Grietas transversales,Baja,83.0,,Registro simulado
+58,T-12,Jr. Constitución,2026-11-13,9.9,Bajo,Escalonamiento,Alta,32.0,,Registro simulado
+59,T-04,Av. Alameda de la República,2026-11-14,8.8,Alto,Losa dividida,Alta,40.0,,Registro simulado
+60,T-07,Jr. Huallayco,2026-11-17,6.0,Medio,Despostillamiento,Media,59.0,,Registro simulado
+61,T-09,Av. Universitaria,2026-11-18,7.5,Alto,Despostillamiento,Baja,47.0,,Registro simulado
